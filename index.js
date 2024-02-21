@@ -35,6 +35,9 @@ console.log(
 )
 
 let endereco ={
-    "rua"
+    "rua" : "Alagoas",
+    "num" : 156,
+    "bairro" : "centro"
+    
 }
 
